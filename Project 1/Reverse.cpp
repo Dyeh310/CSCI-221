@@ -1,8 +1,6 @@
 /* This program requires the student to write 3 functions described in
  * Program project 4 (Page 535) and Program Project 6 (Page 536).
  * The student also need to add a print function to print out an array.
- * The student may watch video notes on MyProgrammingLab to get the idea
- * on how to write the main function and three of these four functions
  *
  * Author: Nicholas Heyd
  * Version: 1.0   8/30/2018
